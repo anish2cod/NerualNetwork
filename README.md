@@ -1,2 +1,2 @@
 # NerualNetwork 
-Intened to creat NeuralNetwork from scrach
+Intented to creat a NeuralNetwork from scrach
